@@ -2,6 +2,9 @@ Sistema de Gerenciamento de Cursos e Alunos
 
 Este projeto é um sistema desenvolvido em Python com o objetivo de gerenciar cursos e alunos de forma simples e organizada. Ele foi criado como parte dos meus estudos em programação, focando na prática de lógica, orientação a objetos, integração com banco de dados e interface básica.
 
+![Tela do sistema](sistema_cursos_python_foto.png)
+
+
 Funcionalidades
 
 Cadastro de cursos
